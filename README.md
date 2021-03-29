@@ -1,3 +1,3 @@
 # control_repo
 
-this is a demo file for puppet
+this is a test project for puppet
